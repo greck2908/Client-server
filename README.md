@@ -88,13 +88,13 @@ Client_Server
 	
 16) Уровни OSI
 	
-	7 Прикладной уровень (application layer)
-	6 Уровень представления (presentation layer)
-	5 Сеансовый уровень (session layer)
-	4 Транспортный уровень (transport layer)
-	3 Сетевой уровень (network layer)
-	2 Канальный уровень (data link layer)
-	1 Физический уровень (physical layer)
+	7. Прикладной уровень (application layer)
+	6. Уровень представления (presentation layer)
+	5. Сеансовый уровень (session layer)
+	4. Транспортный уровень (transport layer)
+	3. Сетевой уровень (network layer)
+	2. Канальный уровень (data link layer)
+	1. Физический уровень (physical layer)
 	
 17) Хедеры http запросов
 	
